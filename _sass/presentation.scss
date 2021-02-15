@@ -54,4 +54,22 @@
     font-size: 30px;
 }
 
+.container-show-nav
+{
+    width: 800px;
+    height: 45px;
+}
+
+.show-navigation
+{
+    display: none;
+    color: #489FB5;
+    font-size: 30px;
+    text-align: center;
+}
+
+.presentation:hover .show-navigation
+{
+    display: flex;
+}
 
